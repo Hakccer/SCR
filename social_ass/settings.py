@@ -30,7 +30,7 @@ ALLOWED_HOSTS = ["127.0.0.1", "scrollify-assignment.herokuapp.com"]
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "https://lucky-churros-840f7d.netlify.app",
+    "https://jade-centaur-afa627.netlify.app",
 ]
 
 # Application definition
