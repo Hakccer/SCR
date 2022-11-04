@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-#7m09ajeqj4ux)&49gg7vr50np1ir9m_-qt6r!dzu2vtcsi1&3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "lucky-churros-840f7d.netlify.app"]
+ALLOWED_HOSTS = ["127.0.0.1", "scrollify-assignment.herokuapp.com"]
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
